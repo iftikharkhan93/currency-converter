@@ -1,0 +1,14 @@
+{
+  "name": "cli-practice",
+  "version": "0.0.0",
+  "description": "This repository contains the starter files for the 'CLI Practice' exercise.",
+  "main": "src/currency-converter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jesse R Mykolyn",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
